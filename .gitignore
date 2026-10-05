@@ -1,0 +1,11 @@
+# Raw data files (too large for GitHub)
+*.csv
+*.rds
+
+# Excel output files
+*.xlsx
+
+# R workspace files
+.Rhistory
+.RData
+.Rproj.user/
